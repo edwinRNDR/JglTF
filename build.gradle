@@ -1,0 +1,14 @@
+plugins {
+    id 'java'
+    id 'maven'
+}
+
+group 'de.javagl.jgltf'
+version '2.0.0-SNAPSHOT'
+
+repositories {
+    mavenLocal()
+    mavenCentral()
+}
+
+

@@ -1,0 +1,6 @@
+rootProject.name = 'jgltf'
+
+include 'jgltf-impl-v1',
+        'jgltf-impl-v2',
+        'jgltf-impl-v2-technique-webgl',
+        'jgltf-model'
