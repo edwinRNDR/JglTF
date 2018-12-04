@@ -1,0 +1,4 @@
+
+dependencies {
+    compile project(":jgltf-impl-v2")
+}

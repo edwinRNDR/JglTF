@@ -1,0 +1,9 @@
+repositories {
+    jcenter()
+}
+
+dependencies {
+    compile project(":jgltf-impl-v1")
+    compile project(":jgltf-impl-v2")
+    compile 'com.fasterxml.jackson.core:jackson-databind:2.8.11.1'
+}
